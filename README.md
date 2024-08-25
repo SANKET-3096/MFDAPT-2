@@ -12,5 +12,10 @@ Perform operations like filtering data based on conditions, handling missing val
 # Github Link:
 https://github.com/SANKET-3096/MFDAPT-2.git
 
+# csv file download:
+[01.Data Cleaning and Preprocessing.csv](https://github.com/user-attachments/files/16647594/01.Data.Cleaning.and.Preprocessing.csv)
+
+[DATA ANALYSIS WITH PYTHON-2.pdf](https://github.com/user-attachments/files/16647595/DATA.ANALYSIS.WITH.PYTHON-2.pdf)
+
 # Project video:
 
